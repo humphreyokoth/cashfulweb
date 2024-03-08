@@ -56,7 +56,7 @@ const LoginForm = () => {
           fontWeight: 900,
         })}
       >
-        Welcome back!
+        Hi, Welcome
       </Title>
       <Text color="dimmed" size="sm" align="center" mt={5}>
         Do not have an account yet?{' '}

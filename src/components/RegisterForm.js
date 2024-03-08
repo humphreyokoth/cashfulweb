@@ -53,7 +53,7 @@ const RegisterForm = () => {
       </Title>
       <Text color="dimmed" size="sm" align="center" mt={5}>
         Already have an account?{' '}
-        <Link to="/login">
+        <Link to="/">
           <Anchor size="sm">Log in</Anchor>
         </Link>
       </Text>
